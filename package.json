@@ -1,0 +1,23 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedoweb/ajs-node.git"
+  },
+  "author": "fedoweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedoweb/ajs-node/issues"
+  },
+  "homepage": "https://github.com/fedoweb/ajs-node#readme",
+  "dependencies": {
+    "@fedoweb/ajs": "^1.0.0"
+  }
+}
